@@ -19,7 +19,6 @@
 
     
     grid-area: header;
-    background-color: #333;
 
 }
 #header h1 {
@@ -49,7 +48,6 @@
 #content
 {
     grid-area: content;
-    background-color: aliceblue;
     display: flex;
     flex-direction: row;
     align-content: center;
